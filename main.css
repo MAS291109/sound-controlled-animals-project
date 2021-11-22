@@ -1,0 +1,10 @@
+body
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: linear-gradient(beige, lightblue);
+}
+.header_div
+  {
+  background: beige;
+  color: black; 
+  }
