@@ -1,6 +1,8 @@
 body
 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Comforter Brush', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Special Elite', cursive;
   background-image: linear-gradient(beige, lightblue);
 }
 .header_div
@@ -8,3 +10,28 @@ body
   background: beige;
   color: black; 
   }
+  .header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    width: 120px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color:lightgoldenrodyellow;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+ }
